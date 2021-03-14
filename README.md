@@ -35,7 +35,7 @@ Thus, the *"moscow is the capital of the russian federation"* is the most releva
 
 ## UpdateDocumentBase method
 
-This methods replaces the content of the database with a new set of documents.
+This method replaces the content of the database with a new set of documents.
 For example, the following code:
 
 ```
